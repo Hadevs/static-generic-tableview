@@ -2,4 +2,4 @@
 
 ![alt](header.png)
 
-Статья о паттерне на Habr: https://habr.com/ru/post/258065/
+Статья о паттерне на Habr
